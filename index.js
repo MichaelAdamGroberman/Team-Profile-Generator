@@ -61,6 +61,7 @@ async function prompt() {
                 type: "input",
                 name: "id",
                 message: "What is the Employee's ID Number?: ",
+                // validate function that checks if the ID is empty 
                 validate: function validateId(id) {
                     return id !== '';
                 }
