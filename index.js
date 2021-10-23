@@ -3,9 +3,11 @@ const inquirer = require("inquirer");
 const fs = require("fs");
 const util = require("util");
 const html = require("./src/htmlTemp");
+// installs the required packages for running our __tests__
 const jest = require("-- save-dev jest");
+// makes sure that email VALUES are valid
 const validator = require("email-validator");
-// initiate all the requires modules found in "/lib/"
+// initiating all of the classes exported as modules in "/lib/"
 const Manager = require("./lib/Manager");
 const Engineer = require("./lib/Engineer");
 const Intern = require("./lib/Intern");
@@ -79,9 +81,8 @@ async function prompt() {
           choices: ["Engineer", "Intern", "Manager"],
         },
       ]);
-      console.log("response", response);
 
-      // every key in an object is a string
+      // note** Every key in an object is evaluated as a string
       const employeeLookup = {
         Engineer: {
           prompt: {
@@ -120,8 +121,7 @@ async function prompt() {
             new Manager(name, id, email, extendedProperty),
         },
       };
-      console.log("response", response);
-      console.log("correct prompt: ", employeeLookup[response.role].prompt);
+
       // await for the employee role value from the inquirer prompt lookup object
       const response2 = await inquirer.prompt([
         employeeLookup[response.role].prompt,
@@ -150,8 +150,9 @@ async function prompt() {
     ]);
   } while (responseDone.finish === "Yes");
   {
-    console.log("finished");
+    console.log("Finished Adding Employees");
   }
 }
 
+// iniating our main() function!!!
 main();
