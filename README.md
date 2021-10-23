@@ -8,7 +8,8 @@ This is a Node.js command-line application that takes in information about emplo
 
 1. [Installation](#installation)
 2. [Usage](#usage)
-3. [Walkthtrough](#walkthrough)
+3. [Tests](#tests)
+4. [Walkthtrough](#walkthrough)
 
 ## Installation
 
@@ -38,8 +39,14 @@ This is a Node.js command-line application that takes in information about emplo
   - Intern - school
 - Then a team.html page will be generated in the output directory, that displays a nicely formatted team roster.
 
+## Tests
+- Jest will be invoked by using the following command:
+
+  `npm run test`
+- Each test is a seperate script located in "__tests__"
+
+![Running Tests](https://github.com/MichaelAdamGroberman/Team-Profile-Generator/blob/main/assets/RunningTests.mov)
+
 ## Walkthrough
 
 ![Video Walkthrough](https://github.com/MichaelAdamGroberman/Team-Profile-Generator/blob/main/assets/VideoWalkthrough.gif)
-
-![Running Tests](https://github.com/MichaelAdamGroberman/Team-Profile-Generator/blob/main/assets/RunningTests.mov)
