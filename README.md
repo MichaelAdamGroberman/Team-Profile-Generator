@@ -40,6 +40,6 @@ This is a Node.js command-line application that takes in information about emplo
 
 ## Walkthrough
 
-![Running Tests](https://github.com/MichaelAdamGroberman/Team-Profile-Generator/blob/main/assets/RunningTests.mov)
-
 ![Video Walkthrough](https://github.com/MichaelAdamGroberman/Team-Profile-Generator/blob/main/assets/VideoWalkthrough.mov)
+
+![Running Tests](https://github.com/MichaelAdamGroberman/Team-Profile-Generator/blob/main/assets/RunningTests.mov)
