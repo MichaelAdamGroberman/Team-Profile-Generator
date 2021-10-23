@@ -3,6 +3,7 @@ const inquirer = require("inquirer");
 const fs = require("fs");
 const util = require("util");
 const html = require("./src/htmlTemp");
+const jest = require("-- save-dev jest");
 const validator = require("email-validator");
 // initiate all the requires modules found in "/lib/"
 const Manager = require("./lib/Manager");
