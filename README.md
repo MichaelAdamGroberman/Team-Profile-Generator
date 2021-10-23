@@ -37,3 +37,9 @@ This is a Node.js command-line application that takes in information about emplo
   - Engineer - GitHub username
   - Intern - school
 - Then a team.html page will be generated in the output directory, that displays a nicely formatted team roster.
+
+## Walkthrough
+
+https://github.com/MichaelAdamGroberman/Team-Profile-Generator/blob/main/assets/RunningTests.mov
+
+https://github.com/MichaelAdamGroberman/Team-Profile-Generator/blob/main/assets/VideoWalkthrough.mov
