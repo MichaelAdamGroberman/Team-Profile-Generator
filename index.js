@@ -4,7 +4,7 @@ const fs = require("fs");
 const util = require("util");
 const html = require("./src/htmlTemp");
 // installs the required packages for running our __tests__
-const jest = require("-- save-dev jest");
+const jest = require("jest");
 // makes sure that email VALUES are valid
 const validator = require("email-validator");
 // initiating all of the classes exported as modules in "/lib/"
