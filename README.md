@@ -9,7 +9,8 @@ This is a Node.js command-line application that takes in information about emplo
 1. [Installation](#installation)
 2. [Usage](#usage)
 3. [Tests](#tests)
-4. [Walkthtrough](#walkthrough)
+4. [SAMPLE of Generated File](#SAMPLE-of-Generated-File)
+5. [Walkthtrough](#walkthrough)
 
 ## Installation
 
@@ -46,6 +47,9 @@ This is a Node.js command-line application that takes in information about emplo
 - Each test is a seperate script located in "__tests__"
 
 ![Running Tests](https://github.com/MichaelAdamGroberman/Team-Profile-Generator/blob/main/assets/RunningTests.mov)
+
+## SAMPLE of Generated File
+![generatedFile](https://github.com/MichaelAdamGroberman/Team-Profile-Generator/blob/main/assets/generatedFile.png)
 
 ## Walkthrough
 
