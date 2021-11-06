@@ -52,6 +52,4 @@ This is a Node.js command-line application that takes in information about emplo
 ![generatedFile](https://github.com/MichaelAdamGroberman/Team-Profile-Generator/blob/main/assets/generatedFile.png)
 
 ## Walkthrough
-
-![Video Walkthrough (GIF)](https://github.com/MichaelAdamGroberman/Team-Profile-Generator/blob/main/assets/VideoWalkthrough.gif)
 ![Video Walkthrough (MOV)](https://github.com/MichaelAdamGroberman/Team-Profile-Generator/raw/main/assets/VideoWalkthrough.mov)
