@@ -48,8 +48,13 @@ This is a Node.js command-line application that takes in information about emplo
 
 ![Running Tests](https://github.com/MichaelAdamGroberman/Team-Profile-Generator/blob/main/assets/RunningTests.mov)
 
+[link to video](https://github.com/MichaelAdamGroberman/Team-Profile-Generator/blob/main/assets/RunningTests.mov)
+
 ## SAMPLE of Generated File
 ![generatedFile](https://github.com/MichaelAdamGroberman/Team-Profile-Generator/blob/main/assets/generatedFile.png)
 
+
 ## Walkthrough
 ![Video Walkthrough (MOV)](https://github.com/MichaelAdamGroberman/Team-Profile-Generator/raw/main/assets/VideoWalkthrough.mov)
+
+[link to video!](https://github.com/MichaelAdamGroberman/Team-Profile-Generator/blob/main/assets/VideoWalkthrough.mov)
